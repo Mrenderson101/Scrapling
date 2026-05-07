@@ -108,3 +108,12 @@ output/*/index.html
 docs/_build
 public/
 web/
+
+# Hermes local testbench
+.venv/
+.hermes-probe/
+.hermes-briefings/
+.hermes-briefings-test/
+scrapling.egg-info/
+__pycache__/
+*.pyc
